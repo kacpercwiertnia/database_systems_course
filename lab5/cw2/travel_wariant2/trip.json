@@ -1,0 +1,7 @@
+{"_id":{"$oid":"6482fb864eff1d8b0903f51b"},"trip_id":0,"name":"Whala!Bavaro","country":"Dominikana","reviews":[{"review_id":0},{"review_id":1}]}
+{"_id":{"$oid":"6482fb864eff1d8b0903f51c"},"trip_id":1,"name":"Rixos Sungate","country":"Turcja","reviews":[{"review_id":2},{"review_id":3}]}
+{"_id":{"$oid":"6482fb864eff1d8b0903f51d"},"trip_id":2,"name":"Saint Nicholas","country":"Grecja","reviews":[{"review_id":4},{"review_id":5}]}
+{"_id":{"$oid":"6482fb864eff1d8b0903f51e"},"trip_id":3,"name":"Nest Style Zanzibar","country":"Zanzibar","reviews":[{"review_id":6},{"review_id":7}]}
+{"_id":{"$oid":"6482fb864eff1d8b0903f51f"},"trip_id":4,"name":"Koggala Beach","country":"Sri Lanka","reviews":[{"review_id":8},{"review_id":9}]}
+{"_id":{"$oid":"6482fb864eff1d8b0903f520"},"trip_id":5,"name":"Plaza Real","country":"Algarve","reviews":[{"review_id":10},{"review_id":11}]}
+{"_id":{"$oid":"6482fb864eff1d8b0903f521"},"trip_id":6,"name":"Port de Soller","country":"Majorka","reviews":[{"review_id":12},{"review_id":13}]}

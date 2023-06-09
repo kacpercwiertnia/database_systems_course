@@ -1,0 +1,14 @@
+{"_id":{"$oid":"6482fb864eff1d8b0903f526"},"review_id":0,"trip_id":0,"user_id":0,"stars":3,"comment":"Tak średnio bym powiedział"}
+{"_id":{"$oid":"6482fb864eff1d8b0903f527"},"review_id":1,"trip_id":0,"user_id":3,"stars":4,"comment":"Ok"}
+{"_id":{"$oid":"6482fb864eff1d8b0903f528"},"review_id":2,"trip_id":1,"user_id":2,"stars":2,"comment":"Słabo"}
+{"_id":{"$oid":"6482fb864eff1d8b0903f529"},"review_id":3,"trip_id":1,"user_id":1,"stars":1,"comment":"Dramat"}
+{"_id":{"$oid":"6482fb864eff1d8b0903f52a"},"review_id":4,"trip_id":2,"user_id":1,"stars":5,"comment":"Super"}
+{"_id":{"$oid":"6482fb864eff1d8b0903f52b"},"review_id":5,"trip_id":2,"user_id":0,"stars":4,"comment":"Git"}
+{"_id":{"$oid":"6482fb864eff1d8b0903f52c"},"review_id":6,"trip_id":3,"user_id":1,"stars":5,"comment":"Piękne miejsce"}
+{"_id":{"$oid":"6482fb864eff1d8b0903f52d"},"review_id":7,"trip_id":3,"user_id":3,"stars":2,"comment":"Straszne miejsce"}
+{"_id":{"$oid":"6482fb864eff1d8b0903f52e"},"review_id":8,"trip_id":4,"user_id":2,"stars":2,"comment":"Brzydko"}
+{"_id":{"$oid":"6482fb864eff1d8b0903f52f"},"review_id":9,"trip_id":4,"user_id":3,"stars":3,"comment":"Moze być"}
+{"_id":{"$oid":"6482fb864eff1d8b0903f530"},"review_id":10,"trip_id":5,"user_id":2,"stars":2,"comment":"Nie mój klimat"}
+{"_id":{"$oid":"6482fb864eff1d8b0903f531"},"review_id":11,"trip_id":5,"user_id":0,"stars":2,"comment":"Słabo"}
+{"_id":{"$oid":"6482fb864eff1d8b0903f532"},"review_id":12,"trip_id":6,"user_id":2,"stars":3,"comment":"Tak średnio bym powiedział"}
+{"_id":{"$oid":"6482fb864eff1d8b0903f533"},"review_id":13,"trip_id":6,"user_id":3,"stars":4,"comment":"Ok"}

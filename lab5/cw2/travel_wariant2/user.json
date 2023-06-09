@@ -1,0 +1,4 @@
+{"_id":{"$oid":"6482fb864eff1d8b0903f522"},"user_id":0,"name":"Jan","surname":"Nowak","trips":[{"trip_id":0},{"trip_id":2},{"trip_id":5}]}
+{"_id":{"$oid":"6482fb864eff1d8b0903f523"},"user_id":1,"name":"Marek","surname":"Kowalski","trips":[{"trip_id":1},{"trip_id":2},{"trip_id":3}]}
+{"_id":{"$oid":"6482fb864eff1d8b0903f524"},"user_id":2,"name":"Janusz","surname":"Jop","trips":[{"trip_id":1},{"trip_id":4},{"trip_id":5},{"trip_id":6}]}
+{"_id":{"$oid":"6482fb864eff1d8b0903f525"},"user_id":3,"name":"Anna","surname":"Polak","trips":[{"trip_id":0},{"trip_id":3},{"trip_id":4},{"trip_id":6}]}

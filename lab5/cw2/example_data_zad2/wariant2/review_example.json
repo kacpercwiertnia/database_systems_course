@@ -1,0 +1,10 @@
+{
+    "_id": {
+      "$oid": "6482fb864eff1d8b0903f526"
+    },
+    "review_id": 0,
+    "trip_id": 0,
+    "user_id": 0,
+    "stars": 3,
+    "comment": "Tak średnio bym powiedział"
+  }

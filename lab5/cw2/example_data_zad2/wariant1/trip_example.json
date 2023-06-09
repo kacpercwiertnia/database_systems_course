@@ -1,0 +1,20 @@
+{
+    "_id": {
+      "$oid": "6482e18cfe473caf0583b059"
+    },
+    "trip_id": 0,
+    "name": "Whala!Bavaro",
+    "country": "Dominikana",
+    "reviews": [
+      {
+        "user_id": 0,
+        "stars": 3,
+        "comment": "Tak średnio bym powiedział"
+      },
+      {
+        "user_id": 3,
+        "stars": 4,
+        "comment": "Ok"
+      }
+    ]
+}

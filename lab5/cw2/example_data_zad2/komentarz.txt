@@ -1,0 +1,3 @@
+Struktura wariantu 1 składa się z 3 kolekcji: firmy, wycieczki, uzytkownicy. Firmy mają id wycieczek organizowanych przez nich, wycieczki mają recenzje wraz z id uzytkownikow, a uzytkownicy maja id wycieczek, na ktorych byli.
+Wariant 1 ma wadę w postaci niewygodnego zagnieżdżenia recenzji w wycieczkach.
+Wariant 2 posiada podobną strukturę jak wariant 1 lecz ma dodaną kolekcję na recenzje.
